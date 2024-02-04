@@ -1,0 +1,102 @@
+statement
+
+function argument
+
+statement
+
+return c
+
+Function name:c
+
+statement
+
+variabe name:b
+
+variable b is already declared
+
+variable b is already declared
+
+variabe name:a
+
+variable b is already declared
+
+variable a is already declared
+
+variabe name:k
+
+add:10
+
+result:10
+
+multiplication:770
+
+result:770
+
+percent:0
+
+result:0
+
+variabe name:d
+
+array element:5
+
+array element:4
+
+array element:1
+
+array initialization
+
+array name:i
+
+array size:3
+
+array element access
+
+array name:i
+
+array index:2
+
+assigned value:5
+
+statement
+
+Invalid function call:function not declared
+
+Invalid function call:Parameters not declared
+
+valid function call
+
+for loop traversal:1
+
+for loop traversal:3
+
+statement
+
+print statement
+
+statement
+
+print statement
+
+if block
+
+statement
+
+add:11
+
+result:11
+
+variabe name:c
+
+max:11
+
+result:11
+
+statement
+
+break statement
+
+if condition false
+
+while block
+MAINfinished

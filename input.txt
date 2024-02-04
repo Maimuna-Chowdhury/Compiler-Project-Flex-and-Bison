@@ -1,0 +1,52 @@
+
+function c[int d]
+(
+c=d+5;
+return c;
+)
+int main()
+{
+int b=10;
+int b=5;
+int a=7,b;
+int a=3,b=1;
+int k;
+k=a+3;
+k=k*77;
+k=k%5;
+float d=3.4;
+float i(3)={1,4,5};
+i(2)=5;
+for(int k=1;;k<5;;k=k+2)
+{
+p(x,y);
+c(k);
+}
+
+if(a<b)
+{
+print("%d is less than %d",a,b);
+}
+else
+{
+print("%d is greater than %d",a,b);
+}
+while(a<b)
+{
+a=a+4;
+int c;
+c=max(a,b);
+if(a==10)
+{
+break;
+}
+}
+}
+
+
+
+
+
+
+
+
